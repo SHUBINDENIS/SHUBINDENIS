@@ -31,5 +31,5 @@ My focus is production-grade data engineering:
 - data quality and operational visibility
 
 ## Contact
-- LinkedIn: [https://www.linkedin.com/in/denisshubina]
+- LinkedIn: https://www.linkedin.com/in/denisshubina
 - Email: shubindenisa@gmail.com
