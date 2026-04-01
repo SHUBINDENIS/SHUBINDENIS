@@ -19,10 +19,11 @@ My focus is production-grade data engineering:
 
 ## Featured Projects
 - **[Superset AI Assistant](https://github.com/SHUBINDENIS/superset_ai)** — production-style analytics assistant with Next.js, FastAPI, Apache Superset, and MCP integration
-- **Batch ELT Platform** — idempotent batch pipeline with orchestration, backfills, and quality checks
-- **Streaming Fraud Signals** — Kafka + Spark pipeline with checkpointing, watermarking, and DLQ
-- **Warehouse Modeling** — dbt marts with SCD2 snapshots, tests, freshness, and docs
-- **Data Observability Lab** — lineage, quality checks, and incident-style monitoring
+- **[Payments Batch ELT](https://github.com/SHUBINDENIS/de-payments-batch-elt)** — daily payments ELT with Airflow orchestration, idempotent reruns, backfills, and business marts
+- **[Fraud Streaming Signals](https://github.com/SHUBINDENIS/de-fraud-streaming-signals)** — Kafka and Spark Structured Streaming pipeline with watermarking, checkpointing, DLQ, and duplicate-safe sinks
+- **[Warehouse Modeling with dbt](https://github.com/SHUBINDENIS/de-warehouse-modeling-dbt)** — dbt warehouse project with staging, marts, SCD2 snapshots, freshness checks, and exposures
+- **[Lakehouse with Spark and Delta](https://github.com/SHUBINDENIS/de-lakehouse-spark-delta)** — Bronze/Silver/Gold lakehouse with Delta merge logic, schema evolution, and rollback-oriented operations
+- **[Data Reliability Controls](https://github.com/SHUBINDENIS/de-observability-lineage-quality)** — data quality checks, lineage impact analysis, alert routing, and incident response workflows
 
 ## What I focus on
 - reliable data workflows
